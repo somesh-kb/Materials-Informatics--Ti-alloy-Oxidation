@@ -10,4 +10,4 @@ In this study, I have used four different ML models:- (a) Support Vector Regress
 
 Among all the ML models, the Xtreme Gradient Boosting model gives the best prediction as indicated by the root mean squared error and coefficient of determination. 
 
-For this project, I am grateful to Prof. Takayuki Narushima annd Dr. Ryoji Sahara for their support and guidance.  
+For this project, I am grateful to Prof. Takayuki Narushima and Dr. Ryoji Sahara for their support and guidance.  
